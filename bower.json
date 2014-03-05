@@ -1,0 +1,22 @@
+{
+  "name": "name",
+  "version": "0.0.0",
+  "authors": [
+    "Dan Heidel <dan.heidel@gmail.com>"
+  ],
+  "description": "description",
+  "main": "app.js",
+  "keywords": [
+    "keywords"
+  ],
+  "license": "MIT",
+  "homepage": "homepage",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

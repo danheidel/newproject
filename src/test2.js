@@ -1,5 +1,5 @@
 'use strict';
 
-var foo = require('test').foo;
+var bar = require('./foo').foo;
 
-foo();
+bar();
